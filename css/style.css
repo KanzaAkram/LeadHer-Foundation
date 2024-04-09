@@ -448,7 +448,7 @@
 }
 
 .carousel-inner img{
-    height: 70rem;
+    height: 42rem;
 }
 
 .carousel-caption{
@@ -456,7 +456,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-top: 8rem;
+    padding-top: 3rem;
 }
 
 .row .g-3{
