@@ -1,9 +1,16 @@
 /********** Template CSS **********/
-:root {
+/* :root {
     --primary: #FC8500;
     --secondary: #FFF0E6;
     --light: #F8F8F9;
     --dark: #001D23;
+} */
+
+:root {
+    --primary: #ED2B33FF;
+    --secondary: #ff9ae6;
+    --light: #f0f0f0;
+    --dark: #990011FF;
 }
 
 .back-to-top {
@@ -38,7 +45,8 @@
 
 .btn.btn-primary,
 .btn.btn-outline-primary:hover {
-    color: #FFFFFF;
+    /* color: #FFFFFF; */
+    color: #e9c1c1;
 }
 
 .btn.btn-primary:hover {
